@@ -1,7 +1,7 @@
 {
   "name": "openai-plugins-local",
   "interface":{
-“displayName”: “OpenAI Plugins Local”
+“displayName”:“OpenAI Plugins Local”
 },
   "plugins": [
     {
