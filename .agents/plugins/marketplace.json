@@ -1,8 +1,8 @@
 {
   "name": "openai-plugins-local",
-  "interface": {
-    "displayName": "Codex official"
-  },
+  "interface":{
+“displayName”: “OpenAI Plugins Local”
+},
   "plugins": [
     {
       "name": "linear",
